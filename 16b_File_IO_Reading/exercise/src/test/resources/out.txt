@@ -1,0 +1,3 @@
+What is the fully qualified name of the file that should be searched
+What is the search word you are looking for?
+Should the search be case sensitive? (Y/N)
